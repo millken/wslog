@@ -1,0 +1,2 @@
+# wslog
+log to websocket 
